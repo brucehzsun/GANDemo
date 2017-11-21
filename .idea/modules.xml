@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DCGAN/DCGAN.iml" filepath="$PROJECT_DIR$/DCGAN/DCGAN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GANDemo.iml" filepath="$PROJECT_DIR$/GANDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GAN_line/GAN_line.iml" filepath="$PROJECT_DIR$/GAN_line/GAN_line.iml" />
+    </modules>
+  </component>
+</project>
